@@ -19,6 +19,7 @@ I'll probably try to vary languages a bit to get some variety.
 
 ### [Day 3](day3/)
 **Language**: TypeScript (Deno)
+
 **Note**: This one was re-written because what I initially wrote belongs on [r/programminghorror](https://www.reddit.com/r/programminghorror/).
 
 ### [Day 4](day4/)
