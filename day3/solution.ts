@@ -26,15 +26,6 @@ function toSubComponents(l: string) {
 
 type Component = [number, number, string];
 
-function isPartNumber(
-  components: Component[],
-  component: Component,
-) {
-  return Boolean(
-    components.find((c) => isAdjacent(component, c) && c[2] !== "."),
-  );
-}
-
 /**
  * Checks whether two components are adjacent
  * @param c1 First component.
@@ -49,6 +40,15 @@ function isAdjacent([y1, x1, s1]: Component, [y2, x2, s2]: Component) {
         (x1 - 1 <= x2e && x2e <= x1e + 1) ||
         (x2 <= x1 - 1 && x1e + 1 <= x2e)
       ) || (y1 === y2) && (x2e === x1 - 1 || x2 === x1e + 1);
+}
+
+function isPartNumber(
+  components: Component[],
+  component: Component,
+) {
+  return Boolean(
+    components.find((c) => isAdjacent(component, c) && c[2] !== "."),
+  );
 }
 
 function gearRatio(
