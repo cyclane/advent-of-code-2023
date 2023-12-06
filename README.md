@@ -24,3 +24,8 @@ I'll probably try to vary languages a bit to get some variety.
 
 ### [Day 4](day4/)
 **Language**: Golang
+
+### [Day 5](day5/)
+**Language**: Kotlin
+
+**Note**: Here begin the optimisations! (some people got away with brute force, I decided not to even go there).
