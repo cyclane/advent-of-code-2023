@@ -29,3 +29,6 @@ I'll probably try to vary languages a bit to get some variety.
 **Language**: Kotlin
 
 **Note**: Here begin the optimisations! (some people got away with brute force, I decided not to even go there).
+
+### [Day 6](day6/)
+**Language**: Haskell
