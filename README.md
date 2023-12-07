@@ -32,3 +32,8 @@ I'll probably try to vary languages a bit to get some variety.
 
 ### [Day 6](day6/)
 **Language**: Haskell
+
+### [Day 7](day7/)
+**Language**: JavaScript (Node)
+
+**Note**: Yes, I used JSDoc for type-hints. But I think only insane people use JavaScript without JSDoc.
