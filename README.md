@@ -37,3 +37,8 @@ I'll probably try to vary languages a bit to get some variety.
 **Language**: JavaScript (Node)
 
 **Note**: Yes, I used JSDoc for type-hints. But I think only insane people use JavaScript without JSDoc.
+
+### [Day 8](day8/)
+**Language**: Bash
+
+**Note**: Here begin languages I'm not great at.
