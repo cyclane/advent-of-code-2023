@@ -42,3 +42,6 @@ I'll probably try to vary languages a bit to get some variety.
 **Language**: Bash
 
 **Note**: Here begin languages I'm not great at.
+
+### [Day 9](day9/)
+**Language**: Rust
