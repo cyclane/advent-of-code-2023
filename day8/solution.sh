@@ -70,6 +70,6 @@ do
         continue
     fi
     cur=$key
-    count=$(lcm $count $(findcount $cur $instructions "*Z"))
+    count=$(lcm $count $(findcount $cur $instructions *Z))
 done
 echo "Part 2: $count"
