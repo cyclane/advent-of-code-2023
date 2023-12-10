@@ -11,39 +11,39 @@ I'll probably try to vary languages a bit to get some variety.
 
 ## Solutions
 
-### [Day 1](day1/)
+### [Day 1](day01/)
 **Language**: Python 3.12 (generics used)
 
-### [Day 2](day2/)
+### [Day 2](day02/)
 **Language**: Python 3
 
-### [Day 3](day3/)
+### [Day 3](day03/)
 **Language**: TypeScript (Deno)
 
 **Note**: This one was re-written because what I initially wrote belongs on [r/programminghorror](https://www.reddit.com/r/programminghorror/).
 
-### [Day 4](day4/)
+### [Day 4](day04/)
 **Language**: Golang
 
-### [Day 5](day5/)
+### [Day 5](day05/)
 **Language**: Kotlin
 
 **Note**: Here begin the optimisations! (some people got away with brute force, I decided not to even go there).
 
-### [Day 6](day6/)
+### [Day 6](day06/)
 **Language**: Haskell
 
-### [Day 7](day7/)
+### [Day 7](day07/)
 **Language**: JavaScript (Node)
 
 **Note**: Yes, I used JSDoc for type-hints. But I think only insane people use JavaScript without JSDoc.
 
-### [Day 8](day8/)
+### [Day 8](day08/)
 **Language**: Bash
 
 **Note**: Here begin languages I'm not great at.
 
-### [Day 9](day9/)
+### [Day 9](day09/)
 **Language**: Rust
 
 ### [Day 10](day10/)
