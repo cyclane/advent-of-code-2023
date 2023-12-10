@@ -45,3 +45,6 @@ I'll probably try to vary languages a bit to get some variety.
 
 ### [Day 9](day9/)
 **Language**: Rust
+
+### [Day 10](day10/)
+**Language**: Lua
