@@ -36,8 +36,6 @@ I'll probably try to vary languages a bit to get some variety.
 ### [Day 7](day07/)
 **Language**: JavaScript (Node)
 
-**Note**: Yes, I used JSDoc for type-hints. But I think only insane people use JavaScript without JSDoc.
-
 ### [Day 8](day08/)
 **Language**: Bash
 
@@ -48,3 +46,6 @@ I'll probably try to vary languages a bit to get some variety.
 
 ### [Day 10](day10/)
 **Language**: Lua
+
+### [Day 11](day11/)
+**Language**: Java (17)
